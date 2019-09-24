@@ -48,3 +48,5 @@ if __name__ == '__main__':
     # 4.进行top_k推荐
     top_recom = top_k(predict, 2)
     print(top_recom)
+
+
